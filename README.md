@@ -1,5 +1,14 @@
 # GhostOsintWails-Markdown 0.5.2 更新与优化说明
 
+<img width="884" height="589" alt="屏幕截图 2026-07-01 092714" src="https://github.com/user-attachments/assets/29c8ce30-be24-4ea6-9783-3a39ed74b625" />
+<img width="885" height="590" alt="屏幕截图 2026-07-01 092653" src="https://github.com/user-attachments/assets/beea8ff8-360e-45bc-a579-d28f6eb0d6f9" />
+<img width="880" height="587" alt="屏幕截图 2026-07-01 092619" src="https://github.com/user-attachments/assets/9a9b7eeb-db62-44fc-bf62-cf989e521ca2" />
+<img width="882" height="585" alt="屏幕截图 2026-07-01 092555" src="https://github.com/user-attachments/assets/00e181de-a867-40e7-82ac-746b5b94f3e3" />
+<img width="881" height="592" alt="屏幕截图 2026-07-01 092535" src="https://github.com/user-attachments/assets/5bc2ae7a-ec2f-462d-8577-a666862726e4" />
+<img width="885" height="589" alt="屏幕截图 2026-07-01 092503" src="https://github.com/user-attachments/assets/4e50c2f1-17b0-4cf7-9fce-e390b151b106" />
+<img width="882" height="589" alt="屏幕截图 2026-07-01 092443" src="https://github.com/user-attachments/assets/51122751-26c1-4518-b249-790f7efdbc8e" />
+
+
 ## 版本概述
 
 本次 0.5.2 版本重点围绕 `GhostOsintWails-Markdown` Markdown 文档管理与写作功能进行增强，优化了大量 Markdown 文件场景下的性能表现，并改进了文件夹、文件树、分类栏、写作体验和自动保存逻辑。
